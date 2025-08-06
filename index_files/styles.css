@@ -1,0 +1,1220 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	background-color: #A50108;
+}
+.HomeFondoContenido {
+	background-color: #FFFFFF;
+}
+.HomeFondoContenidoCentral {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_FondoContenido.jpg);
+	background-repeat: no-repeat;
+}
+
+.HomeFondoSdCuadro {
+	font-size: 11px;
+	color: #cd102c;
+	padding-top: 10px;
+	padding-right: 5px;
+}
+
+
+.HomeFondoHeader {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_homeHeaderLp.jpg);
+	background-repeat: repeat-x;
+	height: 104px;
+}
+.HomeFondoFooter a, .HomeFondoFooterTxt a {
+	color: #FFFFFF;
+}
+.HomeFondoFooterTxt {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_homeFooterLp.jpg);
+	background-repeat: repeat-x;
+	padding: 11px;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+.HomeFondoHeaderCentro {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_homeHeaderTop.jpg);
+	background-repeat: repeat-x;
+	height: 104px;
+	width: 990px;
+}
+.HomeFondoContLat {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_homeContLp.jpg);
+	background-repeat: repeat-x;
+	height: 425px;
+	background-color: #FFFFFF;
+}
+.HomeFondoFooter {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_homeFooterLp.jpg);
+	background-repeat: repeat-x;
+	font-size: 11px;
+	color: #FFFFFF;
+	clip: rect(25px,auto,auto,auto);
+}
+.HomeFondoFooter a {
+	color: #FFFFFF;
+}
+
+.HomeFondoHeaderBuscador {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_homeFondoBuscador.jpg);
+	background-repeat: no-repeat;
+}
+.HomeBuscadorLigas {
+	padding-top: 22px;
+	padding-left: 15px;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+.HomeBuscadorLigas a {
+	color: #FFFFFF;
+	text-decoration: none;
+	display: block;
+	margin-right: 10px;
+	float: left;
+}
+.HomeBuscadorPaddingCampo {
+	padding-top: 2px;
+	padding-right: 14px;
+}
+.HomeBuscadorPaddingCampoInput {
+	font-size: 10px;
+	color: #666666;
+	width: 110px;
+}
+.MenuPrincipalOn {
+	font-size: 13px;
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/infonavit_home_MenuLp.jpg);
+	background-repeat: repeat-x;
+	height: 32px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+.InteriorMenuOn {
+	font-size: 11px;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interiorMenuLP.jpg);
+	background-repeat: repeat-x;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-top: 5px;
+}
+.InteriorMenuOn a {
+	color: #CD102C;
+	text-decoration: none;
+}
+
+
+.MenuPrincipalOn a {
+	font-size: 13px;
+	font-weight: bold;
+	color: #cd102c;
+	text-decoration: none;
+}
+.MenuPrincipalOff {
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.MenuPrincipalOff a {
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.HomeFondoBanners {
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/InfonavitHomeFondoBanners.jpg);
+	background-repeat: no-repeat;
+}
+.HomeAreaCentral {
+	padding-left: 8px;
+}
+.HomeFondoBannersPadding {
+	padding-top: 12px;
+	padding-bottom: 5px;
+}
+
+.HomeAreaCentralFondoServicios {
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/InfonavitCentralServicios.jpg);
+	background-repeat: no-repeat;
+}
+.HomeFondoBannersBorde {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #C9C8C8;
+	border-bottom-color: #C9C8C8;
+	border-left-color: #C9C8C8;
+}
+.HomeFondoBannersMarco {
+	padding: 1px;
+	border: 1px solid #CCCCCC;
+}
+.HomeFondoBannersDiv {
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/infonavit_home_BannersDiv.gif);
+	background-repeat: repeat-x;
+}
+.HomeServiciosListado {
+	padding-right: 8px;
+	padding-left: 8px;
+}
+
+.HomeServiciosListado li {
+	margin: 0px;
+	list-style-type: none;
+	font-size: 12px;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #E2E2E2;
+}
+.HomeFondoListadoIzq li {
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px;
+	list-style-type: none;
+	text-decoration: none;
+	clip: rect(auto,auto,auto,auto);
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+
+.HomeServiciosListado ul {
+	padding-right: 0px;
+	padding-left: 0px;
+	margin: 0px;
+}
+.HomeFondoContenidoSubnemuSim ul {
+	padding-right: 0px;
+	padding-left: 0px;
+	margin: 0px;
+}
+
+.HomeFondoListadoIzq ul {
+	margin-top: 63px;
+}
+
+
+
+.HomeServiciosListado a {
+	color: #333333;
+	text-decoration: none;
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	display: block;
+	padding-left: 10px;
+	background-position: 0px 4px;
+}
+.HomeFondoListadoIzq a {
+	color: #333333;
+	text-decoration: none;
+	display: block;
+	padding-left: 10px;
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+}
+
+.HomeFondoContenidoCentDiv {
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/infonavit_home_CentDiv.jpg);
+	background-repeat: no-repeat;
+}
+.HomeFondoContenidoLineDiv {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+.HomeFondoListadoIzq {
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/infonavi_home_TituloIzq.jpg);
+	background-repeat: no-repeat;
+	padding-right: 24px;
+}
+.HomeFondoListadoDer {
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/infonavit_home_TitulioDer.jpg);
+	background-repeat: no-repeat;
+	padding-right: 13px;
+	padding-left: 10px;
+}
+.HomeFondoListadoDer ul {
+
+	margin-top: 63px;
+}
+.HomeFondoListadoDer li {
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px;
+	list-style-type: none;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+.HomeFondoListadoDer a {
+	color: #333333;
+	text-decoration: none;
+	display: block;
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+	padding-left: 10px;
+}
+.HomeFondoBannerPrincipal {
+}
+.HomeFondoContenidoQue {
+	font-size: 10px;
+	padding-right: 5px;
+}
+.HomeFondoContenidoQue a {
+	color: #3172A7;
+	text-decoration: none;
+	display: block;
+	padding-left: 10px;
+	background-image: url(http://precalificaciones.infonavit.org.mx/images/infonavit_home_BulletQue.gif);
+	background-repeat: no-repeat;
+	background-position: 10px 3px;
+	width: 80px;
+}
+.HomeAreaCentralFondoServiciossh {
+
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/InfonavitCentralServiciossh.jpg);
+	background-repeat: no-repeat;
+}
+.HomeFondoSdCuadroBold {
+	font-size: 18px;
+	color: #cd102c;
+}
+.HomeConsulte {
+	color: #333333;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	display: block;
+	padding-left: 10px;
+	background-position: 0px 4px;
+	font-size: 12px;
+	font-weight: bold;
+}
+.HomeFondoContenidoConozca {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 17px;
+}
+.HomeFondoContenidoConozca ul {
+	font-size: 11px;
+	list-style-type: none;
+	padding-top: 17px;
+}
+.HomeFondoContenidoConozca a {
+	color: #333333;
+	text-decoration: underline;
+	display: block;
+	padding-left: 10px;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_BulletSq.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 10px;
+	font-size: 11px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.HomeFondoContenidoPrensa {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_FondoPrensa.jpg);
+	background-repeat: no-repeat;
+}
+
+.HomeFondoContenidoConozca li {
+
+
+
+
+}
+.HomeFondoContenidoPrensa {
+	padding-top: 70px;
+}
+.HomeFondoContenidoPrensaThumb {
+	font-size: 11px;
+	padding-left: 23px;
+	padding-right: 53px;
+	margin: 0px;
+}
+.HomeTituloThumb {
+	color: #c90f29;
+	display: block;
+	padding-left: 10px;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+}
+.HomeFondoListadoIzqEmp {
+
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_FondoInteres.jpg);
+	background-repeat: no-repeat;
+	padding-right: 24px;
+}
+.HomeFondoListadoDerEmp {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_FondoNovedades.jpg);
+	background-repeat: no-repeat;
+	padding-right: 15px;
+	padding-left: 0px;
+}
+.HomeFondoListadoDerEmp ul {
+	margin-top: 63px;
+}
+.HomeFondoListadoDerEmp li {
+
+
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px;
+	list-style-type: none;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+.HomeFondoListadoDerEmp a {
+
+	color: #333333;
+	text-decoration: none;
+	display: block;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+	padding-left: 10px;
+}
+.HomeFondoListadoIzqEmp li {
+
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px;
+	list-style-type: none;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+.HomeFondoListadoIzqEmp ul {
+	margin-top: 63px;
+	left: 0px;
+}
+.HomeFondoListadoIzqEmp a {
+	color: #333333;
+	text-decoration: none;
+	display: block;
+	padding-left: 10px;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+}
+.HomeFondoListadoIzqAmp {
+
+
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_FondoInterantes.jpg);
+	background-repeat: no-repeat;
+	padding-right: 24px;
+}
+.HomeFondoListadoDerAmp {
+
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_FondoMaterial.jpg);
+	background-repeat: no-repeat;
+	padding-right: 15px;
+	padding-left: 0px;
+}
+.HomeFondoListadoDerAmp ul {
+
+	margin-top: 63px;
+}
+.HomeFondoListadoDerAmp li {
+
+
+
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px;
+	list-style-type: none;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+.HomeFondoListadoDerAmp a {
+
+
+	color: #333333;
+	text-decoration: none;
+	display: block;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+	padding-left: 10px;
+}
+.HomeFondoListadoIzqAmp li {
+
+
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px;
+	list-style-type: none;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+.HomeFondoListadoIzqAmp ul {
+
+	margin-top: 63px;
+	left: 0px;
+}
+.HomeFondoListadoIzqAmp a {
+
+	color: #333333;
+	text-decoration: none;
+	display: block;
+	padding-left: 10px;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+}
+.HomeServiciosText {
+	color: #333333;
+	text-decoration: none;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	display: block;
+	padding-left: 10px;
+	background-position: 0px 4px;
+	font-size: 11px;
+	margin-top: 10px;
+	font-weight: normal;
+}
+.HomeFondoListMenu {
+	font-size: 11px;
+	color: #cd102c;
+	width: 175px;
+}
+.HomeFondoListadoIzqOfe {
+
+
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_FondoActividad.jpg);
+	background-repeat: no-repeat;
+	padding-right: 24px;
+}
+.HomeFondoListadoIzqOfe ul {
+
+	margin-top: 63px;
+	left: 0px;
+}
+.HomeFondoListadoIzqOfe a {
+
+	color: #333333;
+	text-decoration: none;
+	display: block;
+	padding-left: 10px;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+}
+.HomeFondoListadoIzqOfe li {
+	margin: 0px;
+	list-style-type: none;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+
+.HomeAreaCentralInt {
+
+	padding-left: 11px;
+}
+.HomeFondoContenidoSubnemuSim a {
+	color: #000000;
+	text-decoration: none;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-position: 0px 3px;
+	background-repeat: no-repeat;
+	padding-left: 10px;
+	display: block;
+}
+
+.HomeFondoSubmenuSit {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_SubmenuVivienda.jpg);
+	background-repeat: no-repeat;
+	font-size: 12px;
+	font-weight: bold;
+	padding-top: 4px;
+	padding-left: 15px;
+	color: #FFFFFF;
+}
+.HomeFondoSubmenuCont {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_FondoSubmenu2.jpg);
+	background-repeat: repeat-y;
+	font-size: 11px;
+	padding-left: 18px;
+	padding-right: 10px;
+}
+.HomeFondoSubmenuCont ul {
+	margin: 0px;
+	padding-right: 20px;
+	padding-left: 10px;
+}
+.HomeFondoSubmenuCont li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	list-style-type: none;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #cecece;
+}
+
+.HomeFondoSubmenuCont a {
+	text-decoration: none;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_BulletSq.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 5px;
+	display: block;
+	color: #000000;
+	padding-left: 10px;
+}
+
+
+
+.HomeFondoContenidoSubnemuSim {
+/*	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_FondoSubmenu.jpg);
+	background-repeat: no-repeat;*/
+	font-size: 11px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+}
+.HomeFondoContenidoSubnemuSim li {
+/*	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 18px;
+	list-style-image: none;
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 2px;*/
+	
+	
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_FondoSubmenu.PNG);
+	background-position: 0px 0px ;
+	background-repeat: repeat-y;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 18px;
+	list-style-image: none;
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 2px;	
+}
+
+.HomeFondoSubmenuViv {
+
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_SubmenuSit.jpg);
+	background-repeat: no-repeat;
+	font-size: 12px;
+	font-weight: bold;
+	padding-top: 4px;
+	padding-left: 15px;
+	color: #FFFFFF;
+}
+.HomeFondoSubmenuEST {
+
+
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_SubmenuEST.jpg);
+	background-repeat: no-repeat;
+	font-size: 12px;
+	font-weight: bold;
+	padding-top: 3px;
+	padding-left: 15px;
+	color: #FFFFFF;
+}
+.HomeTituloSubmemu {
+	color: #c90f29;
+	font-size: 12px;
+	font-weight: bold;
+	display: block;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	padding-left: 10px;
+	background-position: 0px 3px;
+	text-decoration: none;
+}
+.InteriorContenidoBanners {
+	padding-top: 25px;
+}
+.InteriorFondoBanners {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_FondoBannerP.jpg);
+	background-repeat: no-repeat;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #D9D9D9;
+	border-bottom-color: #D9D9D9;
+	border-left-color: #D9D9D9;
+	font-size: 13px;
+	font-weight: bold;
+	color: #cc0000;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 25px;
+}
+.InteriorContenidoTexto {
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 20px;
+}
+.InteriorContenidoTextoSuntutilo {
+	font-size: 12px;
+	color: #cc0000;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+.InteriorContenidoTextoBase {
+	font-size: 11px;
+	color: #666666;
+	padding-bottom: 10px;
+}
+
+
+
+
+.InteriorContenidoTextoTitulo {
+	font-size: 15px;
+	font-weight: bold;
+	color: #cc0000;
+	padding-bottom: 25px;
+}
+.InteriorContenidoRastro {
+	font-size: 11px;
+	font-weight: normal;
+	color: #666666;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.InteriorContenidoPasos {
+	font-size: 11px;
+	color: #cc0000;
+	padding-bottom: 10px;
+}
+.InteriorContenidoTituloPasos {
+	font-size: 11px;
+	color: #cd102c;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #D3D2D2;
+	border-right-color: #D3D2D2;
+	border-bottom-color: #D3D2D2;
+	border-left-color: #D3D2D2;
+}
+.InteriorContenidoTituloPasos a {
+	color: #666666;
+}
+
+
+.InteriorContenidoAnteriorSiguiente {
+	font-size: 11px;
+	color: #666666;
+	padding-bottom: 10px;
+}
+.InteriorContenidoAnteriorSiguiente a {
+	color: #666666;
+}
+
+
+
+
+
+
+.InteriorFondoBanners a {
+	color: #333333;
+	text-decoration: none;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	display: block;
+	padding-left: 10px;
+	background-position: 0px 4px;
+	font-size: 11px;
+	font-weight: normal;
+}
+.InteriorFondoBanners ul {
+	margin: 0px;
+	list-style-type: none;
+	padding-left: 10px;
+	padding-top: 15px;
+}
+.InteriorFondoBanners li {
+	padding-right: 25px;
+	padding-top: 5px;
+}
+.InteriorFondoBannersTable {
+	margin-left: 10px;
+}
+.InteriorContenidoTextoInciso {
+	font-size: 11px;
+	color: #cc0000;
+	padding-bottom: 5px;
+	padding-left: 23px;
+	font-weight: bold;
+}
+.InteriorContenidoIncisoText {
+	font-size: 11px;
+	color: #666666;
+	padding-bottom: 10px;
+	padding-left: 25px;
+}
+.InteriorContenidoOpciones {
+	font-size: 11px;
+}
+.InteriorContenidoOpciones ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+.InteriorContenidoOpciones li {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_BulletOpciones.gif);
+	background-position: 0px 4px;
+	display: block;
+	background-repeat: no-repeat;
+	font-weight: bold;
+	color: #666666;
+	list-style-type: none;
+	padding-left: 10px;
+}
+.InteriorContenidoTextoOpciones {
+	font-size: 11px;
+	color: #666666;
+	padding-bottom: 10px;
+	padding-left: 45px;
+}
+.InteriorContenidoRastro a {
+	font-size: 10px;
+	color: #3172A7;
+	text-decoration: underline;
+}
+.InteriorFondoPBanners {
+
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_FondoBannerP.jpg);
+	background-repeat: no-repeat;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #D9D9D9;
+	border-bottom-color: #D9D9D9;
+	border-left-color: #D9D9D9;
+	font-size: 13px;
+	font-weight: bold;
+	color: #cc0000;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.InteriorFondoPBanners a {
+
+	color: #333333;
+	text-decoration: none;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	display: block;
+	padding-left: 10px;
+	background-position: 0px 4px;
+	font-size: 11px;
+	font-weight: normal;
+}
+.InteriorFondoPBanners ul {
+	list-style-type: none;
+	padding-left: 10px;
+	margin: 0px;
+}
+.InteriorFondoPBanners li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.InteriorFondoTabla {
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_FondoTabla.jpg);
+	background-repeat: no-repeat;
+}
+.InteriorContenidoTablaTextoPadding {
+	padding-top: 4px;
+}
+
+.InteriorContenidoTabla {
+	font-size: 11px;
+	color: #666666;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #DCDCDC;
+}
+.InteriorContenidoTextoDocs {
+	font-size: 11px;
+	color: #666666;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+.InteriorTextoSubtituloDocs {
+	font-size: 12px;
+	color: #cc0000;
+	font-weight: bold;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+.InteriorTextoSubtituloDocs a {
+	color: #cd102c;
+}
+.InteriorTextoSubtituloBus {
+
+	font-size: 12px;
+	color: #cc0000;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+.InteriorTextoSubtituloBus a {
+	color: #CC0000;
+}
+.InteriorContenidoTextoBase a {
+	color: #cd102c;
+	text-decoration: none;
+}
+
+.InteriorTextoBusSub {
+	font-size: 11px;
+	font-weight: Bold;
+	color: #666666;
+}
+.HomeFondoContenidoMenu {
+
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_FondoContenidoMenu.jpg);
+	background-repeat: no-repeat;
+}
+.InteriorContenidoBannersMenu {
+
+	padding-top: 70px;
+}
+.InteriorContenidoTextoMenu {
+
+	padding-top: 17px;
+	padding-left: 30px;
+	padding-right: 10px;
+}
+.InteriorMenuPaddingBt {
+	padding-left: 15px;
+	padding-bottom: 20px;
+}
+.InteriorMenuOff {
+	font-size: 11px;
+	padding-top: 5px;
+}
+.InteriorContenidoMenuABCpadding {
+	padding-bottom: 60px;
+}
+.InteriorContenidoMenuABC {
+	font-size: 16px;
+	font-weight: bold;
+	color: #cc0000;
+}
+
+
+.InteriorMenuOff a {
+	color: #666666;
+	text-decoration: none;
+}
+.InteriorContenidoMenuABC a {
+	font-weight: normal;
+	color: #666666;
+}
+.InteriorContenidoMenuABCpadding {
+	padding-bottom: 60px;
+}
+
+
+.InteriorContenidoTituloTema {
+
+	font-size: 11px;
+	color: #cd102c;
+	padding-bottom: 10px;
+}
+.InteriorContenidoTituloTema a {
+	color: #666666;
+	text-decoration: underline;
+}
+.InteriorContenidoTextoBaseMenu {
+	font-size: 11px;
+	color: #666666;
+	padding-bottom: 10px;
+}
+.InteriorContenidoTextoBaseMenu a {
+	color: #CC0000;
+	text-decoration: underline;
+	float: right;
+}
+.InteriorContenidoMenuABCinput {
+	font-size: 11px;
+	color: #666666;
+	width: 120px;
+}
+.InteriorContenidoMenuABCbutton {
+	font-size: 11px;
+}
+.InteriorContenidoTextoBusq {
+	font-size: 11px;
+	color: #666666;
+	padding-bottom: 10px;
+	padding-right: 140px;
+}
+.HomeFondoContenidoContacto {
+
+
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_FondoContacto.jpg);
+	background-repeat: no-repeat;
+}
+.InteriorContenidoTextoContacto {
+
+
+	padding-top: 0px;
+	padding-left: 30px;
+	padding-right: 0px;
+}
+.InteriorMenuContactoBt {
+	padding-bottom: 10px;
+}
+.InteriorMenuContactoOn {
+
+	font-size: 11px;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interiorMenuLP.jpg);
+	background-repeat: repeat-x;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-top: 3px;
+}
+.InteriorMenuContactoOn a {
+
+	color: #CD102C;
+	text-decoration: none;
+}
+.InteriorMenuContactoOff {
+
+	font-size: 11px;
+	padding-top: 2px;
+}
+.InteriorMenuContactoOff a {
+
+	color: #666666;
+	text-decoration: none;
+}
+.InteriorContenidoBanner {
+	padding-bottom: 5px;
+}
+.InteriorFondoContenidoVer {
+
+	font-size: 10px;
+	padding-right: 5px;
+}
+.InteriorFondoContenidoVer a {
+	color: #3172A7;
+	display: block;
+	padding-left: 0px;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_BulletQue.gif);
+	background-repeat: no-repeat;
+	background-position: 30px 3px;
+	width: 80px;
+	text-decoration: none;
+}
+.InteriorContenidoFormulario {
+	font-size: 11px;
+	color: #666666;
+}
+.InteriorContenidoFormularioPadding {
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.InteriorFormularioInputSml {
+	font-size: 11px;
+	color: #666666;
+	width: 40px;
+}
+.InteriorFormularioInputMed {
+
+	font-size: 11px;
+	color: #666666;
+	width: 150px;
+}
+.InteriorFormularioInputMult {
+
+
+	font-size: 11px;
+	color: #666666;
+	width: 154px;
+}
+.InteriorFormularioInputBig {
+
+
+	font-size: 11px;
+	color: #666666;
+	width: 200px;
+}
+.InteriorFormularioInputMultBig {
+
+
+
+	font-size: 11px;
+	color: #666666;
+	width: 204px;
+}
+.InteriorFormularioInputMultSml {
+
+
+
+
+	font-size: 11px;
+	color: #666666;
+	width: 45px;
+}
+.InteriorContenidoFormularioPaddingBg {
+	padding-bottom: 7px;
+}
+.InteriorContenidoTituloPaddingBg {
+	padding-bottom: 5px;
+	padding-right: 10px;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+}
+.InteriorContenidoCotactoTitulo {
+	font-size: 15px;
+	font-weight: bold;
+	color: #cc0000;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+.InteriorHdTexto {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background:url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_HdLp.jpg) repeat-x;
+/*	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_HdLp.jpg);
+	background-repeat: repeat-x;*/
+}
+.InteriorHdDiv {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_MapaDiv.jpg);
+	background-repeat: repeat-x;
+	padding-top: 3px;
+	padding-bottom: 0px;
+}
+.InteriorMapaFondo {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_ContenidoLp.jpg);
+	background-repeat: repeat-y;
+	font-size: 11px;
+	color: #C90F29;
+}
+.InteriorMapaFondo ul {
+
+	margin: 0px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.InteriorMapaFondo li {
+
+	padding-top: 3px;
+	padding-bottom: 3px;
+	list-style-type: none;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #cecece;
+}
+.InteriorMapaFondo a {
+
+	text-decoration: none;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_BulletSq.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 5px;
+	display: block;
+	color: #000000;
+	padding-left: 10px;
+}
+.InteriorTituloMap {
+
+	color: #c90f29;
+	font-size: 11px;
+	font-weight: bold;
+	display: block;
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_home_bulletServicios.gif);
+	background-repeat: no-repeat;
+	padding-left: 10px;
+	background-position: 3px 3px;
+	text-decoration: none;
+}
+.InteriorContenidoMapa {
+
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 0px;
+}
+
+.HomeFondoContenidoSepMenuSim {
+
+	background-repeat: no-repeat;
+	font-size: 4px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+}
+.HomeFondoContenidoSepMenuSim li {
+	background-image: url(http://precalificaciones.infonavit.org.mx/wpEstadoSolicitudCreditoWeb/images/infonavit_interior_SeparadorSubmenu.PNG);
+	background-position: 0px 0px ;
+	padding-right: 10px;
+	padding-left: 18px;
+	list-style-image: none;
+	list-style-type: none;
+	margin: 0px;
+}
+
+.HomeFondoContenidoSepMenuSim ul {
+	padding-right: 0px;
+	padding-left: 0px;
+	margin: 0px;
+}
+
+.ContenidoTextoTituloAr {
+  font-size: 25px;
+  font-weight: bold;
+  color: #cc0000;
+  padding-bottom: 25px;
+ }

@@ -1,0 +1,231 @@
+@CHARSET "ISO-8859-1";
+
+.titulorojo {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: #CE0000;
+ letter-spacing: -1px;
+}
+.titulogris {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: #333333;
+ letter-spacing: -1px;
+}
+.titulorojoch {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 18px;
+ color: #CE0000;
+ letter-spacing: -1px;
+}
+.titulogrisch {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ color: #666666;
+ letter-spacing: -1px;
+}
+.ligagris18 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 18px;
+ color: #333333;
+}
+.ligagris18 a:link {
+ color: #333333;
+ text-decoration: none;
+}
+.ligagris18 a:visited {
+ color: #333333;
+ text-decoration: none;
+}
+.ligagris18 a:hover {
+ color: #333333;
+ text-decoration: underline;
+}
+.ligagris18 a:active {
+ color: #333333;
+ text-decoration: underline;
+}
+.ligablanco14 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ color: #FFFFFF;
+}
+.ligablanco14 a:link {
+ color: #FFFFFF;
+ text-decoration: none;
+}
+.ligablanco14 a:visited {
+ color: #FFFFFF;
+ text-decoration: none;
+}
+.ligablanco14 a:hover {
+ color: #FFFFFF;
+ text-decoration: underline;
+}
+.ligablanco14 a:active {
+ color: #FFFFFF;
+ text-decoration: underline;
+}
+.ligarojo12 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ color: #CC0000;
+}
+.ligarojo12 a:link {
+ color: #CC0000;
+ text-decoration: none;
+}
+.ligarojo12 a:visited {
+ color: #CC0000;
+ text-decoration: none;
+}
+.ligarojo12 a:hover {
+ color: #CC0000;
+ text-decoration: underline;
+}
+.ligarojo12 a:active {
+ color: #CC0000;
+ text-decoration: underline;
+}
+.txtgris18 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 18px;
+ color: #333333;
+ letter-spacing: -1px;
+}
+.txtgris14 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ color: #333333;
+ letter-spacing: -1px;
+}
+.ligagris12 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ color: #333333;
+}
+.ligagris12 a:link {
+ color: #333333;
+ text-decoration: none;
+}
+.ligagris12 a:visited {
+ color: #333333;
+ text-decoration: none;
+}
+.ligagris12 a:hover {
+ color: #333333;
+ text-decoration: underline;
+}
+.ligagris12 a:active {
+ color: #333333;
+ text-decoration: underline;
+}
+.txtrojo18 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 18px;
+ color: #CE0000;
+ letter-spacing: -1px;
+}
+.txtrojo14 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ color: #CE0000;
+}
+.tituloazul {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: #268ad2;
+ letter-spacing: -1px;
+}
+.bordenaranja {
+ border: 1px solid #FF6600;
+}
+.titulonaranja {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 18px;
+ color: #FF6600;
+ letter-spacing: -1px;
+}
+.titulonar {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: #F57E1D;
+ letter-spacing: -1px;
+}
+.tituloverde {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: #8c9c15;
+ letter-spacing: -1px;
+}
+.txtazul18 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 18px;
+ color: #023051;
+ letter-spacing: -1px;
+}
+.txtblanco18 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 18px;
+ color: #FFFFFF;
+ letter-spacing: -1px;
+}
+.txtnegro14 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ color: #000000;
+ font-weight: bold;
+}
+.txtgrisch {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ color: #333333;
+}
+.txtgris12 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ color: #3F3F3F;
+ line-height: 18px;
+
+}
+.txtnegro12 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ color: #000000;
+}
+.balloonstyle{
+position:absolute;
+top: -500px;
+left: 0;
+padding: 5px;
+visibility: hidden;
+border:1px solid black;
+font:normal 12px Arial;
+line-height: 18px;
+z-index: 100;
+background-color: white;
+width: 200px;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135,Strength=5);
+}
+.separatexto {
+line-height: 18px;
+
+}
+.cuadrogris {
+ border: thin solid #CCCCCC;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ color: #999999;
+ font-weight: bold;
+}
+.cuadroamarillo {
+ background-color: #ffff99;
+}
+
+.ContenidoTextoTituloAr {
+  font-size: 25px;
+  font-weight: bold;
+  color: #cc0000;
+  padding-bottom: 25px;
+ }

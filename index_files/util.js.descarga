@@ -1,0 +1,25 @@
+// util.js
+function checkIt(evt) {
+    evt = (evt) ? evt : window.event;
+    var charCode = (evt.which) ? evt.which : evt.keyCode;
+    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+        return false;
+    }
+    return true;
+}
+
+function numbersOnly(el) {
+	el.value = el.value.replace(/[^0-9]/g, "");
+}
+
+function isNumberValid(str) {
+	return /^ *[0-9]+ *$/.test(str);
+}
+
+function backHome(){
+	location.href="/wpEstadoSolicitudCreditoWeb/servlet/TramiteMEI";
+}
+
+function logOut(){
+	location.href="/wpEstadoSolicitudCreditoWeb/LogoutController";
+}
